@@ -1,6 +1,7 @@
 body{
     text-align: center;
     font-family: "Poppins";
+    height:100vh;
   }
   p{
     color: gray;
