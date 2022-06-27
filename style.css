@@ -67,6 +67,7 @@ body{
   }
     .para{
      min-width: 200px;
+     Margin:0;
     }
     .item{
       padding: 30px;
